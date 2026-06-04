@@ -2,9 +2,9 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "About",
+    "title": "CV",
     "section": "",
-    "text": "About this site"
+    "text": "CV\ntoc: true"
   },
   {
     "objectID": "contact.html",
@@ -18,6 +18,6 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I am a Master’s student in Economics.\nMy research interests include: - Macroeconomics - Economic growth - Applied econometrics"
+    "text": "I am a Master’s student in Economics.\nMy research interests include: - Macroeconomics - Economic growth - Applied econometrics\ntoc: false"
   }
 ]
