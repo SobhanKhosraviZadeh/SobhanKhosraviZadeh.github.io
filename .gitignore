@@ -9,3 +9,5 @@ _site/
 .Rhistory
 .RData
 .Rproj.user/
+/.quarto/
+**/*.quarto_ipynb
