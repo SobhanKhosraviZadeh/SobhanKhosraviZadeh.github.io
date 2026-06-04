@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Quarto build output
+_site/
+.quarto/
+
+# R / misc (safe to include)
+.Rhistory
+.RData
+.Rproj.user/
