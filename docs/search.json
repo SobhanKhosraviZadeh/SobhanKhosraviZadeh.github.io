@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "About",
     "section": "",
     "text": "About this site"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: SobhanKhosraviZadeh@gmail.com"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Academic",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a Master’s student in Economics.\nMy research interests include: - Macroeconomics - Economic growth - Applied econometrics"
   }
 ]

@@ -1,7 +1,10 @@
 ---
-title: "Academic"
+title: "Home"
 ---
 
-This is a Quarto website.
+I am a Master's student in Economics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research interests include:
+- Macroeconomics
+- Economic growth
+- Applied econometrics

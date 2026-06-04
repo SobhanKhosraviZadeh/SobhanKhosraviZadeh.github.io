@@ -6,8 +6,8 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "CV"
+      - cv.qmd
 
 format:
   html:
