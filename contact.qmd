@@ -1,5 +1,12 @@
 ---
 title: "Contact"
+toc: false
 ---
 
-Email: SobhanKhosraviZadeh@gmail.com
+::: {.content-card .contact-card}
+
+**Email:** [SobhanKhosraviZadeh@gmail.com](mailto:SobhanKhosraviZadeh@gmail.com)  
+
+**GitHub:** https://github.com/SobhanKhosraviZadeh
+
+:::

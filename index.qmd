@@ -1,13 +1,20 @@
 ---
 title: "Home"
+toc: false
 ---
+
+<div class="profile-hero">
+<div class="profile-intro">
 
 I am a Master's student in Economics.
 
-My research interests include:
-- Macroeconomics
-- Economic growth
-- Applied econometrics
+My research interests include economic growth, and applied econometrics.
 
+This website contains my academic profile and contact information.
 
-toc: false
+</div>
+
+<div class="profile-photo-card">
+<img src="assets/profile.jpg" alt="Sobhan Khosravi Zadeh" class="profile-photo">
+</div>
+</div>

@@ -1,8 +1,18 @@
 ---
 title: "CV"
+toc: false
 ---
 
-CV
+::: {.content-card .cv-card}
 
+## Education
 
-toc: true
+### M.A. in Economics  
+Tehran Institute of Advanced Studies  
+(Expected: 2028)
+
+### B.A. in Economics  
+Shahid Beheshti University    
+(2019 – 2023)
+
+:::
