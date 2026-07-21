@@ -6,11 +6,10 @@ toc: false
 <div class="profile-hero">
 <div class="profile-intro">
 
-I am a Master's student in Economics.
+I am a Master's student in Economics at TeIAS.
 
-My research interests include economic growth, and applied econometrics.
+My research interests include development economics, and applied econometrics.
 
-This website contains my academic profile and contact information.
 
 </div>
 

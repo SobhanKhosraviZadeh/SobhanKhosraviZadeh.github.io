@@ -5,14 +5,12 @@ toc: false
 
 ::: {.content-card .cv-card}
 
-## Education
+# Curriculum Vitae
 
-### M.A. in Economics  
-Tehran Institute of Advanced Studies  
-(Expected: 2028)
+The most up-to-date version of my curriculum vitae is available below.
 
-### B.A. in Economics  
-Shahid Beheshti University    
-(2019 – 2023)
+<a href="https://drive.google.com/file/d/1qua4sszW2tPvWzfQCpFm3vHHVK6orii2/view?usp=sharing" target="_blank" class="btn btn-primary">
+📄 View CV (PDF)
+</a>
 
 :::
